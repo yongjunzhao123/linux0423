@@ -1,5 +1,29 @@
 #include <stdio.h>
 int main(){
-	printf("this is first file...\n");
+	
+
+	`printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+
+
+
+
+	
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
+	printf("hello world...\n");
 	return 0;
 }
