@@ -95,5 +95,5 @@ int main(){
 [bilibili](https://www.bilibili.com "点击打开哔哩哔哩")<br>
 [github](https//github.com "点击打开GitHub网站")
 
-![壁纸截图]("https://postimg.cc/G4zGmM3L/19c03c48" "壁纸图片")
+![壁纸截图]("https://pic.rmb.bdstatic.com/bjh/5ecc7ab7dd8624cd44731d6957c330d03752.jpeg@h_1280" "壁纸图片")
 ### 上传的图片地址不允许是本地图片地址，将本地图片上传到某个图片网站，生成一个图片的网络url（网络地址），用网络地址，GitHub就可以访问加载图片了
